@@ -1,0 +1,15 @@
+[
+   {
+      "Database":"stryjz",
+      "Users":[
+         {
+            "Name":"admin",
+            "Role":"rw_role"
+         },
+         {
+            "Name":"super_admin",
+            "Role":"root"
+         }
+      ]
+   }
+]
